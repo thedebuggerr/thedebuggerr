@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thedebuggerr
 - 👀 I’m interested in programming. 
-- 🌱 I’m currently learning Python java css c c++.
+- 🌱 I’m currently learning Python java css c c++ and KALI LINUX.
 - 📫 want to reach out to me: 
 E-mail: the.debuggerr@gmail.com
 
